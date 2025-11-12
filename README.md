@@ -4,7 +4,7 @@ A comprehensive Flutter app for mapping public surveillance infrastructure with 
 
 **DeFlock** is a privacy-focused initiative to document the rapid expansion of ALPRs, AI surveillance cameras, and other public surveillance infrastructure. This app aims to be the go-to tool for contributors to map surveillance devices in their communities and upload the data to OpenStreetMap, making surveillance infrastructure visible and searchable.
 
-**For complete documentation, tutorials, and community info, visit [deflock.me](https://deflock.me)**
+**For complete documentation, tutorials, and community info, visit [deflock.me](https://deflock.me)
 
 <a href="https://apps.apple.com/us/app/deflock-me/id6752760780" style="display: inline-block;">
 <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1695859200" alt="Download on the App Store" style="width: 246px; height: 82px; vertical-align: middle; object-fit: contain;" />
